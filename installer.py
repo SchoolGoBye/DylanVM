@@ -12,12 +12,14 @@ def savejson(json):
 #####################
 
 Head="""
-# BlobeVM Installer
+# DylanVM Installer
 
-> BlobeVM (Powered by DesktopOnCodespaces)
+> DylanVM (GameFlow Exteme v2)
 
-BlobeVM is a Virtual Machine that...
+DylanVM is a Virtual Machine that...
 * Runs entirely in a web browser
+* Can run roblox with some changes
+* unblockes every website
 * Is unblocked
 * Has Windows app support
 * Has audio support
@@ -26,7 +28,7 @@ BlobeVM is a Virtual Machine that...
 * Is very fast
 """
 InstallHead="""
-# BlobeVM Installer
+# DylanVM Installer
 """     
 
 LINES = ["KDE Plasma (Heavy)", "XFCE4 (Lightweight)", "I3 (Very Lightweight)", "GNOME 42 (Very Heavy)", "Cinnamon", "LXQT"]
